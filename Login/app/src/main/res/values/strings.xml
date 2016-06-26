@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LoginScreen</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="signupinfo">Not a member? Sign up now.</string>
+
+    <color name="bgcolor">#26ae90</color>
+
+</resources>
